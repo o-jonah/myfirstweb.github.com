@@ -172,7 +172,7 @@ ul li a:hover{
 
 
 
-.container {
+.main {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
@@ -185,7 +185,7 @@ ul li a:hover{
     font-size: 14px;
   }
 
-  .container {
+  . main {
     padding: 10px;
   }
 }
