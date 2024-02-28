@@ -167,3 +167,26 @@ ul li a:hover{
     font-size: 60px;
 }
 
+
+
+
+
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Styles for small screens */
+
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 14px;
+  }
+
+  .container {
+    padding: 10px;
+  }
+}
+
